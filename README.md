@@ -1,7 +1,7 @@
 
 # VideoCarp README
-I make random stuff and make discord bots and mcfunction.<br>
-## Discord Bots (python)
+I make random stuff and make **discord bots** and **mcfunction.**<br>
+## Discord Bots (Python)
 * [Carp Bot (to be sef hosted)](https://github.com/VideoCarp/CarpBot)<br>
 ## Other Stuff
 * [Prevent code from being copied guide](https://gist.github.com/VideoCarp/100a3aca0144c5bec2a7670ee4911988)<br>
@@ -10,4 +10,4 @@ I make random stuff and make discord bots and mcfunction.<br>
 
 
 
-##### currently working on the bot I put up above.
+##### Bots are with the discord.py library.
