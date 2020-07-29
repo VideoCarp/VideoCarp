@@ -10,4 +10,4 @@ I make random stuff and make **discord bots** and **mcfunction.**<br>
 
 
 
-##### Bots are with the discord.py library.
+##### Bots are with the discord.py library. working on something else rn
